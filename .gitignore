@@ -1,0 +1,6 @@
+secretChapter.txt
+
+#This is a comment
+
+*.cpp
+#To ignore all files with cpp extension.
